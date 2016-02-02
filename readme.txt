@@ -1,1 +1,2 @@
-This is a cool excercise
+This is a cool excercise.
+Lot to learn!
